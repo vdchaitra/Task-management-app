@@ -39,8 +39,7 @@ This web application is built using React and includes several features for mana
 - **Axios**: HTTP requests.
 - **json-server**: Mock backend server.
 
-## Live Demo
-Check out the live demo of the Task Management App [here](https://task-management-woad-xi.vercel.app/)
+
 
 ## Getting Started
 
